@@ -1,0 +1,12 @@
+﻿year,incumbent_vote,opposition_vote,vote_perc_incum,average_unemploy,change_net_approval,Aver_Change_GDPGrowth,trifecta,Incum_win,Incum_party,Rep_can,Dem_can
+1976,40680446,38870893,0.511373492,-0.0065,-9,0.0325,0,0,republican,"Carter, Jimmy","Ford, Gerald"
+1980,35480948,43642639,0.448424412,0.0015,-76,-1.41,1,0,democrat,"Reagan, Ronald","Carter, Jimmy"
+1984,54166829,37449813,0.591233512,-0.00025,-13,1.8725,0,1,republican,"Reagan, Ronald","Mondale, Walter"
+1988,48642640,41716679,0.538324553,0.005,-23,-0.765,0,1,republican,"Bush, George H.W.","Dukakis, Michael"
+1992,38798913,44856747,0.463793042,-0.00525,-67,-0.1625,0,0,republican,"Bush, George H.W.","Clinton, Bill"
+1996,47295351,39003697,0.54804024,0.005,-20,0.065,0,1,democrat,"Dole, Robert","Clinton, Bill"
+2000,49662314,50311372,0.496753856,0.00375,-10,0.085,0,0,democrat,"Bush, George W.","Gore, Al"
+2004,61872711,57449547,0.51853453,-0.00375,-27,-0.0825,1,1,republican,"Bush, George W.","Kerry, John"
+2008,59613835,69338846,0.462292327,-0.00475,-62,-0.985,0,0,republican,"McCain, John","Obama, Barack H."
+2012,64205850,60670117,0.514156979,-0.0015,-47,0.5975,0,1,democrat,"Romney, Mitt","Obama, Barack H."
+2016,65677288,62692670,0.511625064,0.008,1,-0.17,0,0,democrat,"Trump, Donald J.","Clinton, Hillary"
